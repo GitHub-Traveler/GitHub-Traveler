@@ -2,6 +2,7 @@
 # Hi there 👋, I'm Hoang Trung Thanh
 
 ## 🚀 About Me
+- Bachelor of Science in Computer Science at VinUniversity.
 - 🔭 I’m currently working on **full-stack AI-powered applications** with FastAPI, Next.js, and modern DevOps.
 - 🌱 I’m currently performing **LLM fine-tuning, RAG pipelines, and AI system optimization** on GPUs (A5000 40GB).
 - 👯 I’m looking to collaborate on **AI/ML research projects, open-source developer tools, and scalable backend systems**.
