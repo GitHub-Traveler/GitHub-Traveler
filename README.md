@@ -13,15 +13,15 @@
 
 ## 🛠️ Languages & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,react,nextjs,fastapi,postgres,redis,docker,linux,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,nextjs,fastapi,postgres,docker,linux,git,vscode" />
 </p>
 
 ---
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GitHub-Traveler&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitHub-Traveler&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -39,4 +39,4 @@
 
 ---
 
-⭐️ From [YOUR-USERNAME](https://github.com/GitHub-Traveler)
+⭐️ From [GitHub-Traveler](https://github.com/GitHub-Traveler)
